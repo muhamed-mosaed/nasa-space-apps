@@ -22,4 +22,4 @@ Our team is building an interactive tool to analyze NASA Earth observation data.
 
 ### 👥 Team
 * Mohamed Mosaed (Lead / Linux)
-* [Names of other team members]
+
